@@ -1,0 +1,14 @@
+{
+  "name": "excel-to-html-generator",
+  "version": "1.0.0",
+  "description": "A simple script to generate HTML files from Excel data.",
+  "main": "script.js", 
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "Nobuki Inagaki", 
+  "license": "MIT", 
+  "dependencies": {
+    "xlsx": "^0.17.3"
+  }
+}
